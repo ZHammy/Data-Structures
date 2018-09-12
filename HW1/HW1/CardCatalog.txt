@@ -1,0 +1,63 @@
+Title: Peter Pan
+Author Full Name: James Barrie
+Author First Name: James
+Author Last Name: Barrie
+Character Count: 13330
+Line Count: 257
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
+Title: Peter Pan
+Author Full Name: James Barrie
+Author First Name: James
+Author Last Name: Barrie
+Character Count: 13330
+Line Count: 257
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
+Title: Peter Pan
+Author Full Name: James Barrie
+Author First Name: James
+Author Last Name: Barrie
+Character Count: 13330
+Line Count: 257
+
+Title: Moby Dick
+Author Full Name: Herman Melville
+Author First Name: Herman
+Author Last Name: Melville
+Character Count: 910
+Line Count: 17
+
